@@ -40,11 +40,9 @@ This is a very subjective and loose determination of the potential positive effe
 
 ### Time to Implement
 
-We made a simple rough estimate of how difficult it would be to implement an issue, measured in time. The following measures are roughly equivalent to our thoughts:
-
-* Short-term: 1-2 years
-* Medium-term: 3-5 years
-* Long-term: 5+ years
+* Short-term: ~1-2 years
+* Medium-term: ~3-5 years
+* Long-term: ~5+ years
 
 ### Progress
 
