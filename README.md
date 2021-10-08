@@ -5,7 +5,7 @@ An open discussion and prioritization of important issues with the Internet Comp
 ## Issue Structure
 
 1. Brief and descriptive title
-2. Appropriate label
+2. Appropriate labels
     * High Impact, Medium Impact, Low Impact
     * Short-term, Medium-term, Long-term
     * Idea, Traction, Implementing
