@@ -32,6 +32,8 @@ Each issue is labeled with our perception of its impact on the Internet Computer
 
 ### Impact
 
+This is a very subjective and loose determination of the potential positive effects of the issue. Generally, security-related issues are weighted as higher in pact. Application-level issues are generally weighted as lower in impact. Our belief is that focusing on the base layer, making it extremely secure, highly and transparently scalable, and extremely easy to build on will yield the best outcomes for the Internet Computer. We want the base layer to be a dream to build on top of, thus allowing developers to come in and build amazing applications with little friction. This will translate into great value for the world, excellent applications, progress, decentralization, and possibly $ICP appreciation.
+
 ### Time to Implement
 
 ### Progress
