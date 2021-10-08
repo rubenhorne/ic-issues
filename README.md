@@ -1,2 +1,3 @@
-# ic-issues
-Where Jordan and Ryan list and prioritize issues regarding the Internet Computer and its governance
+# IC Issues
+
+An open discussion and prioritization of important issues with the Internet Computer that we believe should be addressed.
