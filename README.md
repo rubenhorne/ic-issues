@@ -24,6 +24,7 @@ An open discussion and prioritization of important issues with the Internet Comp
     - [ ] Implementation
     - [ ] NNS code vote (if applicable)
     - [ ] Issue resolved
+7. Comments should provide current thoughts and next steps for progressing the issue towards implementation
 
 ## Labeling Methodology
 
