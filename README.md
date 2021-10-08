@@ -34,6 +34,20 @@ Each issue is labeled with our perception of its impact on the Internet Computer
 
 This is a very subjective and loose determination of the potential positive effects of the issue. Generally, security-related issues are weighted as higher in pact. Application-level issues are generally weighted as lower in impact. Our belief is that focusing on the base layer, making it extremely secure, highly and transparently scalable, and extremely easy to build on will yield the best outcomes for the Internet Computer. We want the base layer to be a dream to build on top of, thus allowing developers to come in and build amazing applications with little friction. This will translate into great value for the world, excellent applications, progress, decentralization, and possibly $ICP appreciation.
 
+* High impact:
+* Medium impact:
+* Low impact:
+
 ### Time to Implement
 
+We made a simple rough estimate of how difficult it would be to implement an issue, measured in time. The following measures are roughly equivalent to our thoughts:
+
+* Short-term: 1-2 years
+* Medium-term: 3-5 years
+* Long-term: 5+ years
+
 ### Progress
+
+* Idea: It's just an idea in one or a few minds. It's mainly been discussed privately, or mentioned a few times in public areas like Twitter
+* Traction: The idea is spreading to more than a few minds. There is significant public discussion of the issue, and conensus around its implementation is visible and forming
+* Implementing: Some entity (an individual, a company, a DAO, DFINITY, etc) has shown a reasonably likely determination to take the issue and implement it or make significant progress on its implementation
