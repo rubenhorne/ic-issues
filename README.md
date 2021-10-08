@@ -1,6 +1,6 @@
 # IC Issues
 
-An open discussion and prioritization of important issues with the Internet Computer that we believe should be addressed.
+An open discussion and prioritization of important issues with the Internet Computer that we (@rubenhorne and @lastmjs) believe should be addressed.
 
 ## Issue Structure
 
