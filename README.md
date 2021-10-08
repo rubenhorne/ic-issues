@@ -15,7 +15,7 @@ An open discussion and prioritization of important issues with the Internet Comp
     * Blog posts:
     * Podcasts:
     * YouTube:
-    * Forum thread:
+    * Forum threads:
     * NNS proposals:
 6. Status (working on what these checkboxes should be)
     - [ ] Informal information gathering and discussion (phone calls, video calls, tweets, etc)
