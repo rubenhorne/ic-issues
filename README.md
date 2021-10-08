@@ -42,7 +42,7 @@ These issues would be excellent additions to the Internet Computer, but are not 
 
 #### Low impact
 
-These issues may never be implemented on the Internet Computer, and that would just be okay. But if they were implemented, no one would really complain.
+Generally applications that ride on top of the Internet Computer.
 
 ### Time to Implement
 
