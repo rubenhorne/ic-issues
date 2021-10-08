@@ -42,7 +42,7 @@ These issues would be excellent additions to the Internet Computer, but are not 
 
 #### Low impact
 
-Generally applications that ride on top of the Internet Computer.
+Generally applications that ride on top of the Internet Computer. Though the proper functioning of applications is the purpose of the Internet Computer, we are more focused on issues that relate to the base layer protocols themselves.
 
 ### Time to Implement
 
