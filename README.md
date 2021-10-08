@@ -40,12 +40,28 @@ This is a very subjective and loose determination of the potential positive effe
 
 ### Time to Implement
 
-* Short-term: ~1-2 years
-* Medium-term: ~3-5 years
-* Long-term: ~5+ years
+#### Short-term
+
+~1-2 years
+
+#### Medium-term
+
+~3-5 years
+
+#### Long-term
+
+~5+ years
 
 ### Progress
 
-* Idea: It's just an idea in one or a few minds. It's mainly been discussed privately, or mentioned a few times in public areas like Twitter
-* Traction: The idea is spreading to more than a few minds. There is significant public discussion of the issue, and conensus around its implementation is visible and forming
-* Implementing: Some entity (an individual, a company, a DAO, DFINITY, etc) has shown a reasonably likely determination to take the issue and implement it or make significant progress on its implementation
+#### Idea
+
+It's just an idea in one or a few minds. It's mainly been discussed privately, or mentioned a few times in public areas like Twitter.
+
+#### Traction
+
+The idea is spreading to more than a few minds. There is significant public discussion of the issue, and conensus around its implementation is visible and forming.
+
+#### Implementing
+
+Some entity (an individual, a company, a DAO, DFINITY, etc) has shown a reasonably likely determination to take the issue and implement it or make significant progress on its implementation.
