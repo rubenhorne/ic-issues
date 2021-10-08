@@ -42,7 +42,7 @@ These issues would be excellent additions to the Internet Computer, but are not 
 
 #### Low Impact
 
-Generally applications that ride on top of the Internet Computer. Though the proper functioning of applications is the purpose of the Internet Computer, we are more focused on issues that relate to the base layer protocols themselves.
+Generally, small or trivial improvements, or applications that ride on top of the Internet Computer. Though the proper functioning of applications is the purpose of the Internet Computer, we are more focused on issues that relate to the base layer protocols themselves.
 
 ### Time to Implement
 
@@ -66,8 +66,8 @@ It's just an idea in one or a few minds. It's mainly been discussed privately, o
 
 #### Traction
 
-The idea is spreading to more than a few minds. There is significant public discussion of the issue, and conensus around its implementation is visible and forming.
+The idea is spreading to more than a few minds. There is significant public discussion of the issue, and consensus around its implementation is forming.
 
 #### Implementing
 
-Some entity (an individual, a company, a DAO, DFINITY, etc) has shown a reasonably likely determination to take the issue and implement it or make significant progress on its implementation.
+Some entity (an individual, a company, a DAO, DFINITY, etc) has shown a likely determination to take the issue and implement it or make significant progress on its implementation.
