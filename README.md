@@ -5,7 +5,7 @@ An open discussion and prioritization of important issues with the Internet Comp
 ## Issue Structure
 
 1. Brief and descriptive title
-2. Appropriate label
+2. Appropriate label (High Priority, Medium Priority, Low Priority)
 3. Brief and accurate description
 4. Create the following checkboxes and check any items that have been accomplished:
   - [ ] Informal information gathering and discussion (phone calls, video calls, tweets, etc)
