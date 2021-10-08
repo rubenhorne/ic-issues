@@ -32,15 +32,15 @@ Each issue is labeled with our perception of its impact on the Internet Computer
 
 ### Impact
 
-#### High impact
+#### High Impact
 
 Generally related to critical security features, anything that could be an existential threat to the existence of the Internet Computer or its applications, or anything that would provide absolutely enormous benefits.
 
-#### Medium impact
+#### Medium Impact
 
 These issues would be excellent additions to the Internet Computer, but are not absolutely critical to its success.
 
-#### Low impact
+#### Low Impact
 
 Generally applications that ride on top of the Internet Computer. Though the proper functioning of applications is the purpose of the Internet Computer, we are more focused on issues that relate to the base layer protocols themselves.
 
