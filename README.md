@@ -24,3 +24,13 @@ An open discussion and prioritization of important issues with the Internet Comp
     - [ ] Implementation
     - [ ] NNS code vote (if applicable)
     - [ ] Issue resolved
+
+## Labeling Methodology
+
+Each issue is labeled with our perception of its impact on the Internet Computer, how long it may take to implement, and a current assessment of its progress. Below is an explanation of the general process we follow when making label determinations. Feel free to challenge and improve these labels by opening issues with your constructive criticism.
+
+### Impact
+
+### Time to Implement
+
+### Progress
