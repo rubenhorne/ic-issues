@@ -28,15 +28,21 @@ An open discussion and prioritization of important issues with the Internet Comp
 
 ## Labeling Methodology
 
-Each issue is labeled with our perception of its impact on the Internet Computer, how long it may take to implement, and a current assessment of its progress. Below is an explanation of the general process we follow when making label determinations. Feel free to challenge and improve these labels by opening issues with your constructive criticism.
+Each issue is labeled with our perception of its impact on the Internet Computer, how long it may take to implement, and a current assessment of its progress. Below is a loose explanation of each label's meaning. Feel free to challenge and improve these labels by opening issues with your constructive criticism.
 
 ### Impact
 
-This is a very subjective and loose determination of the potential positive effects of the issue. Generally, security-related issues are weighted as higher in pact. Application-level issues are generally weighted as lower in impact. Our belief is that focusing on the base layer, making it extremely secure, highly and transparently scalable, and extremely easy to build on will yield the best outcomes for the Internet Computer. We want the base layer to be a dream to build on top of, thus allowing developers to come in and build amazing applications with little friction. This will translate into great value for the world, excellent applications, progress, decentralization, and possibly $ICP appreciation.
+#### High impact
 
-* High impact:
-* Medium impact:
-* Low impact:
+Generally related to critical security features, anything that could be an existential threat to the existence of the Internet Computer or its applications, or anything that would provide absolutely enormous benefits.
+
+#### Medium impact
+
+These issues would be excellent additions to the Internet Computer, but are not absolutely critical to its success.
+
+#### Low impact
+
+These issues may never be implemented on the Internet Computer, and that would just be okay. But if they were implemented, no one would really complain.
 
 ### Time to Implement
 
