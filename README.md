@@ -9,22 +9,22 @@ An open discussion and prioritization of important issues with the Internet Comp
     * High Impact, Medium Impact, Low Impact
     * Short-term, Medium-term, Long-term
     * Idea, Traction, Implementing
-4. Brief and accurate description
-5. Known discussions:
+3. Brief and accurate description
+4. Known discussions:
     * Tweets:
     * Blog posts:
     * Podcasts:
     * YouTube:
     * Forum threads:
     * NNS proposals:
-6. Status (working on what these checkboxes should be)
+5. Status (working on what these checkboxes should be)
     - [ ] Informal information gathering and discussion (phone calls, video calls, tweets, etc)
     - [ ] Formal write up (forum, blog, podcast, etc)
     - [ ] NNS roadmap vote (if applicable)
     - [ ] Implementation
     - [ ] NNS code vote (if applicable)
     - [ ] Issue resolved
-7. Comments should provide current thoughts and next steps for progressing the issue towards implementation
+6. Comments should provide current thoughts and next steps for progressing the issue towards implementation
 
 ## Labeling Methodology
 
